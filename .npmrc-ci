@@ -1,4 +1,0 @@
-@dxs:registry=https://art.pmideep.com/artifactory/api/npm/dxseng-npm-dev/
-//art.pmideep.com/artifactory/api/npm/dxseng-npm-dev/:_auth=${CREDS}
-//art.pmideep.com/artifactory/api/npm/dxseng-npm-dev/:email=${ARTIFACTORY_USERNAME}
-//art.pmideep.com/artifactory/api/npm/dxseng-npm-dev/:always-auth=true
