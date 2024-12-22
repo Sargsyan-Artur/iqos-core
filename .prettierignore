@@ -1,0 +1,8 @@
+.idea
+.vscode
+.husky
+node_modules
+build
+
+*.json
+*.yaml

@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "pokemon_v2_pokemon": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "height": {
+                "type": "number"
+              },
+              "id": {
+                "type": "number"
+              },
+              "name": {
+                "type": "string"
+              },
+              "order": {
+                "type": "number"
+              },
+              "pokemon_species_id": {
+                "type": "number"
+              }
+            }
+          }
+        }
+      },
+      "required": [ "pokemon_v2_pokemon" ]
+    }
+  },
+  "required": [ "data" ]
+}

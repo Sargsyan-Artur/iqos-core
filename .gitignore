@@ -1,0 +1,14 @@
+.idea/
+.tmp/
+node_modules
+.vscode
+.env
+**/*/tmp
+.eslintcache
+.npmrc
+reports
+build
+dist/
+core/screenshot-testing/.DS_Store
+.DS_Store
+

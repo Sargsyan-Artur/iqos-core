@@ -1,0 +1,10 @@
+{
+  "HeaderText": "The Free Encyclopedia",
+  "Name": "",
+  "textPreferencesOption": "Small,Standard,Large",
+  "SetLongHeadingTitle": "document.querySelector('#firstHeading').innerText = 'An In-Depth Exploration of the Multifaceted Implications and Consequences of Technological Advancements in the 21st Century'",
+  "LongHeadingTitle": "An In-Depth Exploration of the Multifaceted Implications and Consequences of Technological Advancements in the 21st Century",
+  "test": "isSearchActive",
+  "ExpectedWikiFooterLinks": "[\"/Policy:Privacy_policy\",\"/Wikipedia:About\",\"/Wikipedia:General_disclaimer\",\"/Wikipedia:Contact_us\",\"/Policy:Universal_Code_of_Conduct\",\"/developer.wikimedia.org\",\"/en.wikipedia.org\",\"/Policy:Cookie_statement\",\"/index.php?title=Cat&mobileaction=toggle_view_mobile\"]",
+  "ExpectedWikiFooterLinksText": "[\"Privacy policy\",\"About Wikipedia\",\"Disclaimers\",\"Contact Wikipedia\",\"Code of Conduct\",\"Developers\",\"Statistics\",\"Cookie statement\",\"Mobile view\"]"
+}

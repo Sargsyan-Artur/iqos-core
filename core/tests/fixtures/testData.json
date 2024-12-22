@@ -1,0 +1,15 @@
+{ 
+  "wiki": {
+    "search":{
+      "lettersOnly":"test",
+      "numbersOnly":"1234567890",
+      "specialCharactersOnly":"~@#$%^&*(){}[]';:?><,./",
+      "cyrillicLettersOnly":"кот"
+    },
+    "requests": {
+      "searchRequests": {
+        "searchForCat":"cat"
+      }
+    }
+  }
+}
